@@ -14,6 +14,9 @@
 
 
 }
+.container {
+	position: :relative;
+}
 .row {
 	margin-bottom: 15px;
 }
