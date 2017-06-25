@@ -1,7 +1,7 @@
 .row {
 	margin-bottom: 15px;
 }
-.row < div {
-	border: 2px solid green
+.row > div {
+	border: 2px solid green;
 	background-colour: blue;
 }
