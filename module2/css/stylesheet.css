@@ -3,10 +3,10 @@
 	box-sizing: border-box;
 }
 @media (min-width: 1200px){
-	.col-lg-1, .col-lg-4, 
+	.col-lg-4, 
 	{	
 		float: left;
-		border: 1px solid red;
+		border: 1px color:solid red;
 	}
 	.col-lg-4{
 		width: 33%;
